@@ -26,6 +26,6 @@ The page content is rendered, generated and updated with:
 
 
 ### Download
-If you are interested into this project, you can download it from the relase section of this repository.
+If you are interested into this project, you can download it from the "relases" section of this repository.
 You will find both the project and the folder with the presentation along with the sql dump of the database.  
 The presentation is in italian, it contains all the specifications, the relational diagrams, the sequence diagrams and all the components implemented in the project.
