@@ -1,8 +1,6 @@
 # AsteOnline
 
-This is a dynamic java web project that i created for a computer engineering course's exam at Polimi.
-There are two versions of the website put together: the Pure Html one (Thin Client) and the Javacsript one (Thick Client).
-The project has been created with the Eclipse Ide.
+The project has been created with the Eclipse Ide.  
 You can find an overview of the website here: https://vimeo.com/586221710
 
 
