@@ -14,7 +14,7 @@ The website relies on the following languages/technologies:
 
 
 ### Pure Html
-This version renders the pages with the following template pages:
+This version renders the pages with the following template engines:
 - Jstl
 - Thymeleaf
 
