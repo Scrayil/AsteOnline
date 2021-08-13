@@ -20,7 +20,7 @@ This version renders the pages with the following template engines:
 
 ### Javascript
 Here the entire website is made of a single page that sends and receives data asynchronously to and from the server.
-Once the date is received, the page gets updated, there are no reloads, everything is managed by the client.  
+Once the data is received, the page gets updated, there are no reloads and everything is managed by the client.  
 The page content is rendered, generated and updated with:
 - Javascript
 
