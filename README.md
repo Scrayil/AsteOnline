@@ -5,6 +5,7 @@ It is also possible to make offers for other articles and try to win them.
 The creator of the auction can check it's status, and look at all the received offers.
 After the expiration of the auction, the owner is allowed to close it, and if there is a winning offer, the awarded user's details are shown.
 The project has been created with the Eclipse Ide.  
+![alt text](https://github.com/Scrayil/AsteOnline/blob/master/Readme-Website-Overview.png?raw=true)
 You can find an overview of the website here: https://vimeo.com/586221710
 
 
