@@ -1,4 +1,4 @@
-# AsteOnline
+# Aste online
 
 Aste Online is a web application focused on auctions, everyone can create an auction for a specific article in order to sell it.
 It is also possible to make offers for other articles and try to win them.
